@@ -1,25 +1,25 @@
-	• Map columns from Input Schema to Output Schema
-	• Transformation on source data
-	• It is similar to SELECT statement in SQL
-	• Sections:
-		○ Mapping: Here is where the transformation logic is written.
-		○ SELECT: Here we can enable Distinct rows.
-		○ FROM: Here we can design the Join logic.
-		○ WHERE: Here we can apply WHERE/filter condition.
-		○ GROUP BY: To group by output based on a input column.
-		○ ORDER BY: To sort output by input column.
-		○ Advance:
+* Map columns from Input Schema to Output Schema
+Transformation on source data
+It is similar to SELECT statement in SQL
+Sections:
+Mapping: Here is where the transformation logic is written.
+SELECT: Here we can enable Distinct rows.
+FROM: Here we can design the Join logic.
+WHERE: Here we can apply WHERE/filter condition.
+GROUP BY: To group by output based on a input column.
+ORDER BY: To sort output by input column.
+Advance:
 Run DISTINCT as a separate process.
 Run GROUP BY as a separate process.
 Run JOIN as a separate process.
 Run ORDER BY as a separate process.
-	• Schema Remapping
-		○ Remap schemas if a source is removed and added a different source in the dataflow.
-		○ Input required: "Specify obsolete schema" and "Choose correct schema".
-	• Input:Output is n:1
-	• Joins:
-1. LEFT OUTER JOIN
-2. INNER JOIN
+Schema Remapping
+Remap schemas if a source is removed and added a different source in the dataflow.
+Input required: "Specify obsolete schema" and "Choose correct schema".
+Input:Output is n:1
+Joins:
+LEFT OUTER JOIN
+INNER JOIN
 In SAP BODS, a DTD (Document Type Definition) file can be used within a Query Transform to define the structure and data validation rules for an XML file.
 
 
