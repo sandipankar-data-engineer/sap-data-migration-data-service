@@ -16,7 +16,7 @@
 * Schema Remapping
   * Remap schemas if a source is removed and added a different source in the dataflow.
   * Input required: "Specify obsolete schema" and "Choose correct schema".
-  * Input:Output is n:1
+* Input:Output is n:1
 * Joins:
   * LEFT OUTER JOIN
   * INNER JOIN
