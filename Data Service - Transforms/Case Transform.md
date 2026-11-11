@@ -17,24 +17,11 @@ output.
 
 ## Important options
 
-  -----------------------------------------------------------------------
-  Option                              Behaviour
-  ----------------------------------- -----------------------------------
-  **Produce default output**          Creates a default flow for rows
-                                      that match none of the defined case
-                                      conditions.
-
-  **Row can be TRUE for one case      When selected, a row is routed to
-  only**                              at most one case. When cleared, a
-                                      row can be routed to every case
-                                      whose condition evaluates to TRUE.
-
-  **Preserve expression order**       Preserves the configured order of
-                                      case-expression evaluation. This
-                                      matters when expression order
-                                      affects which case is selected; do
-                                      not rely on the displayed order if
-                                      this option is cleared.
+  |Option|Behaviour|
+  |---|---|
+  |**Produce default output**|Creates a default flow for rows that match none of the defined case conditions.|
+  |**Row can be TRUE for one case only**|When selected, a row is routed to at most one case. When cleared, a row can be routed to every case whose condition evaluates to TRUE.|
+  |**Preserve expression order**|Preserves the configured order of case-expression evaluation. This matters when expression order affects which case is selected; do not rely on the displayed order if this option is cleared.|
   -----------------------------------------------------------------------
 
 ## Example
