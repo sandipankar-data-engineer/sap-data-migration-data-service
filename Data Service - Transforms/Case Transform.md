@@ -26,6 +26,8 @@ output.
 
 ## Example
 
+<img width="1170" height="648" alt="image" src="https://github.com/user-attachments/assets/a86c1443-cd9e-4798-b712-e41a8b37c5ca" />
+
 For an employee dataset, define these cases:
 
   Output label   Expression
