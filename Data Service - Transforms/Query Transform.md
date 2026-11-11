@@ -57,5 +57,5 @@ Reference walkthrough: [Data transfer from XML file to database using DTD format
 
 ## 8. Visual References
 
-- [Query transform – mapping view](https://github.com/user-attachments/assets/031ea4c4-8653-4f5e-bef4-adad9d6e1679)
-- [Query transform – configuration view](https://github.com/user-attachments/assets/3805657c-f914-4b94-9ce4-dca019213135)
+<img width="1168" height="565" alt="image" src="https://github.com/user-attachments/assets/7b2e2010-8d26-4981-bc4d-7af337c35b76" />
+
