@@ -1,4 +1,4 @@
-# SAP Data Services (BODS) --- Table Comparison Transform
+# Table Comparison Transform
 
 > A practical guide to detecting inserts, updates, and deletes by
 > comparing an incoming data set with an existing database table.
