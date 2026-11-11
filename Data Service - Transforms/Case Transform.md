@@ -1,4 +1,4 @@
-# SAP Data Services -- Case Transform
+# Case Transform
 
 ## Purpose
 
